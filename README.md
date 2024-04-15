@@ -1,1 +1,1 @@
-# odin-recipes
+The project is to create a basic recipe website with the help of html.This  will demonstrate my understanding of html elements such as <P> tag,lists tags,link and image tag etc.
